@@ -1,0 +1,147 @@
+body{
+background-color:rb(211, 237, 244);
+}
+.dd{
+text-align:center;
+}
+.di{
+width:400px;
+height:460px;
+border:2px solid black;
+box-shadow:10px 10px 10px black;
+margin:20px;
+
+}
+.aa{
+width:100%;
+height:50px;
+background-color:blue;
+color:white;
+border-radius:0px 15px 0px 15px;
+box-shadow:3px 3px 3px black;
+font-size:20px;
+
+}
+.rr{
+width:100%;
+height:45px;
+background-color:black;
+color:white;
+
+}
+.add{
+width:100%;
+height:50px;
+background-color:yellow;
+font-size:30px;
+border-right:5px solid black; 
+border-bottom:3px solid silver;
+text-decoration:underline;
+}
+.ol{
+text-align:right;
+list-style-type:none;
+width:95%;
+height:710px;
+background-color:#DDE6ED;
+padding-right:10px;
+font-size:25px;
+padding-top:10px;
+padding-left:5px;
+}
+.ol li{
+background-color:silver;
+padding:10px;
+margin:4px;
+border-radius:0px 15px 0px 15px ;
+border-left:3px solid black;
+border-right:3px solid black;
+}
+.oo{
+text-align:right;
+list-style-type:none;
+width:95%;
+height:800px;
+background-color:#DDE6ED;
+padding-right:15px;
+font-size:25px;
+padding-left:10px;
+padding-top:10px;}
+
+
+.oo p{
+font-size:16px;
+background-color:white;
+padding:5px;
+margin:5px;
+border-left:3px solid black;
+}
+
+.uu{
+width:100%;
+height:50px;
+background-color:yellow;
+font-size:30px;
+border-right:5px solid black; 
+border-bottom:3px solid silver;
+text-decoration:underline;
+}
+.im{
+margin-top:10px;
+border-radius: 20px 20px 20px 20px ;
+margin-bottom:20px;
+}
+.gg{
+font-size:30px;
+width:100%;
+height:50px;
+background-color:lightBlue;
+font-size:30px;
+border:3px solid black;
+border-radius:5px 5px 5px 5px ;
+}
+
+button{
+width:30%;
+height:40px;
+color:black;
+border:2px solid black;
+border-radius:15px 0 10px 0;
+margin-bottom:20px;
+margin-top:10px;
+cursor:pointer;
+}
+.wats{
+width:95%;
+background-color:white;
+height:50px;
+border-right:4px solid black;
+border-radius:15px 0 15px 0px;
+border-bottom:4px solid black;;
+margin-top:10px;
+padding:5px;
+color:blue;
+}
+.pl{
+text-align:center;
+width:90%;
+padding-right:5px;
+}
+.maz{
+background-color:#DDE6ED;
+margin-top:50px;
+padding:4px;
+}
+
+.end{
+    background-color:#179286;
+    width: 100%;
+    height: 500px;
+}
+.en{
+padding-top: 50px;
+color: #DDE6ED;
+font-size: medium;
+
+
+}
