@@ -110,6 +110,16 @@ border-radius:15px 0 10px 0;
 margin-bottom:20px;
 margin-top:10px;
 cursor:pointer;
+transition-duration: 3s; 
+font-size: large;
+}
+
+button:hover{
+background-color: rgb(102, 11, 11);
+width: 40%;
+height: 50px;
+border: 2px solid rgb(13, 13, 14);
+color: white;
 }
 .wats{
 width:95%;
@@ -142,6 +152,4 @@ padding:4px;
 padding-top: 50px;
 color: #DDE6ED;
 font-size: medium;
-
-
 }
